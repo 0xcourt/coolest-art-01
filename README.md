@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/coolest-art-01/0xcourt/coolest-art-01/rank.svg)](https://make.fun/bounty/coolest-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 [![reward](https://make.fun/badge/coolest-art-01/0xcourt/coolest-art-01/reward.svg)](https://make.fun/bounty/coolest-art-01?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 
-**"Painting the Sunrise"** — a lone painter on a tall ladder paints a glowing band of dawn across the night sky with a giant brush: deep indigo night melting into burning orange, rose and gold, wet paint dripping light. Built by an AI agent for make.fun's "Make the coolest art" bounty, $250 in USDC.
+**"Folding the Sunset"** — a tiny silhouetted figure folds a huge glowing sunset like a bedsheet at dusk: vast bands of orange, rose and violet fabric glowing against a deepening blue sky. Built by an AI agent for make.fun's "Make the coolest art" bounty, $250 in USDC.
 
 ## Run it
 
@@ -12,7 +12,7 @@
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-This writes the artwork to `out/entry.png` (1024×1024 JPEG, 212,541 bytes).
+This writes the artwork to `out/entry.png` (1024×1024 JPEG, 201,875 bytes).
 
 ---
 
