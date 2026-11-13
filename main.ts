@@ -2,6 +2,8 @@
 // The art is the entry.png beside this file: a lone painter on a tall ladder
 // painting a band of dawn across the night sky with a giant brush. This
 // program copies it to /output/entry.png, the one file the judge sees.
+// Note: entry.png holds JPEG bytes (the gate tells PNG from JPEG by the
+// first bytes, and the name stays entry.png either way per RULES.txt).
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
